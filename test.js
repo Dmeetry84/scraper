@@ -1,7 +1,7 @@
 var fs = require('fs');
 var Nightmare = require('nightmare');
 var nightmare = Nightmare({ show: true });
-
+/*
 nightmare
 .goto('https://reactjs.org/tutorial/tutorial.html')
 .wait(3000)
@@ -18,3 +18,4 @@ nightmare
 		console.log('Done');
 	});
 })
+*/
